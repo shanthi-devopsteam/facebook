@@ -1,3 +1,4 @@
+updated in stage
 updating in the master branch
 this line updating in dev brancn 
 development updated file
